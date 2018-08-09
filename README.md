@@ -1,4 +1,7 @@
 # XVNA
+
+[![GuardRails badge](https://badges.production.guardrails.io/r0flc0pt4/xvna.svg)](https://www.guardrails.io)
+
 http://malwrforensics.com/en/2018/03/16/step-by-step-environment-setup-for-extreme-vulnerable-node-application-xvna-security-testing/
 http://malwrforensics.com/en/2018/03/17/extreme-vulnerable-node-application-xvna-insecure-nodejs-deserialization/
 Extreme Vulnerable Node Application
